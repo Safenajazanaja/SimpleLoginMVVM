@@ -1,4 +1,4 @@
-package com.example.simpleloginmvvm
+package com.example.simpleloginmvvm.data.database
 
 import org.jetbrains.exposed.sql.Table
 

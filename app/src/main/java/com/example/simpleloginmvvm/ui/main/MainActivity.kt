@@ -1,9 +1,10 @@
-package com.example.simpleloginmvvm
+package com.example.simpleloginmvvm.ui.main
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
+import com.example.simpleloginmvvm.base.BaseActivity
+import com.example.simpleloginmvvm.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {

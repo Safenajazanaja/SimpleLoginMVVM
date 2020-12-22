@@ -1,4 +1,4 @@
-package com.example.simpleloginmvvm
+package com.example.simpleloginmvvm.base
 
 import android.os.Bundle
 import android.os.StrictMode
